@@ -1,0 +1,13 @@
+# ninja log v6
+47	2589	7428291383035837	CMakeFiles/CProjects.dir/main.cpp.obj	331917d35392968c
+2457	3353	7429050625721950	CProjects.exe	8e1d07e2deb0e692
+41	1119	7429052229871645	build.ninja	f770173c80b6ec09
+17	2457	7429050601315856	CMakeFiles/CProjects.dir/structsexample.cpp.obj	c538c8806daccaa5
+23	1611	7429052304752806	CMakeFiles/CProjects.dir/structsexample.cpp.obj	c538c8806daccaa5
+1612	1772	7429052320632501	CProjects.exe	8e1d07e2deb0e692
+7	3125	7429052712793652	CMakeFiles/CProjects.dir/structsexample.cpp.obj	c538c8806daccaa5
+3126	3410	7429052743990665	CProjects.exe	8e1d07e2deb0e692
+8	1535	7429054166228718	CMakeFiles/CProjects.dir/structsexample.cpp.obj	c538c8806daccaa5
+1535	1687	7429054181502141	CProjects.exe	8e1d07e2deb0e692
+10	1523	7429054372248492	CMakeFiles/CProjects.dir/structsexample.cpp.obj	c538c8806daccaa5
+1523	1672	7429054387381892	CProjects.exe	8e1d07e2deb0e692
